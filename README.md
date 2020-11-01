@@ -1,4 +1,4 @@
-# King County*  Housing Project
+# King County  Housing Project
 
 ## Introduction
 During the analysis of data, I will be presenting to sell by owner's who want a better idea on what their property value is estimated at within the King County market of Massachusetts. Throughout this notebook, I will be explaining step-by-step what each section of code represents. My goal is to gain your business and trust in my  abilities to accurately utilize machine learning and linear regression modeling to predict your property value based on multiple variables (i.e. # bedrooms, # bathrooms, living sqft, etc).
