@@ -21,9 +21,11 @@ ________________________________________________________________________________
 H0: The newer the building is, the higher the value.
 
 H1: The older the building is, the higher the value.
+## Conclusion
+I can reject the null hypotheses. The coefficients to my hypothesis values are as followed: 'sqft_living'(200.487), 'h2ofront'(753,500) and 'yr_built'(-4000) with their p-values > 0.05. The final OLS model also shows that my R-squared value is 0.645 which is reflective of what my linear accuracy score shows of 65%. In summary, the more square footage you add to the living space of a property will increase the value 200 dollars; if you have a waterfront property, your value will rise 753,500 dollars and each year your house ages, it decreases value by 4,000 dollars.
 
 ## File Details within the Repository
 * kc_house_data.csv -- data utilized to train model to predict prices to new listings based on specific features
 * column_names.md -- description of what each column represents of the kc_house_data.csv
 * Mod2 Scratchbook.ipynb -- Original notebook used to begin this project (includes code block not utilized for final modeling submission)
-* KC Housing Project-Final Submission -- Final Draft of code includes: EDA/cleaning, testing simple linear regression, multiple linear regression, OLS tables, finding Root Mean Squared Error (RMSE) of different models, train-test spliting, Q-Q plots for verifying accuracy of models, and conclusion of findings. 
+* KC Housing Project-Final Submission -- Final Draft of code includes: EDA/cleaning, testing simple linear regression, multiple linear regression, OLS tables, finding Root Mean Squared Error (RMSE) of different models, train-test spliting, and conclusion of findings. 
